@@ -1,0 +1,5 @@
+HTML: linguagem de marcação, usada para criar a estrutura de sites e páginas web.
+
+CSS: linguagem de estilização, utilizada para modificar a estrutura das páginas web e deixá-las visualmente melhores.
+
+JavaScript: linguagem de programação usada nas páginas web para dar movimento e conexão à página através de botões e links.
